@@ -155,7 +155,7 @@ a {
   margin: 0 var(--mg-lados);
 }
 .logo-sv {
-  max-width: 75px; /* Definir um tamanho máximo para a logo */
+  max-width: 60px; /* Definir um tamanho máximo para a logo */
   width: 100%; /* Fazer a logo ocupar 100% da largura disponível */
   margin-right: 20px; /* Espaçamento entre a logo e o menu */
 }

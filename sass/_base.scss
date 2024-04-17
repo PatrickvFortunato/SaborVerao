@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $c-rosa1: #660a1f;
 $c-rosa2: #8f253e;
 $c-rosa3: #ffe0eb;
@@ -56,3 +57,63 @@ a {
   margin: 0 auto;
   max-width: 144rem;
 }
+=======
+$c-rosa1: #660a1f;
+$c-rosa2: #8f253e;
+$c-rosa3: #ffe0eb;
+$c-rosa4: #a31c39;
+$c-rosa5: #d01647;
+$c-laranja: #a44b28;
+$c-laranja2: #c45428;
+$c-laranja3: #ea601b;
+$c-dourado: #f99c00;
+$c-dourado2: #593800;
+$c-amarelo: #ffd000;
+$c-azul: #244454;
+$c-azul2: #375665;
+$c-azul3: #014b7c;
+$c-azul4: #6aacc4;
+$c-cinza: #474747;
+$c-preto: #121212;
+$c-branco: #ffffff;
+$c-marrom: #591600;
+$font-texto: "Roboto", sans-serif;
+$font-titulo: "Arima Madurai", cursive;
+
+:root {
+  --mg-lados: 5%;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $font-texto;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 8rem;
+}
+body {
+  min-height: 100vh;
+}
+img {
+  display: block;
+  max-width: 100%;
+  pointer-events: none;
+}
+li {
+  list-style: none;
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+.container {
+  margin: 0 auto;
+  max-width: 144rem;
+}
+>>>>>>> c88faa46b06f6a595e098b26d6da293cfb90b625
