@@ -4,7 +4,7 @@
 
 ---
 
-Esse projeto trata-se de uma Landing Page para uma sorveteria fictícia chamada "IceCream".
+Esse projeto trata-se de uma Landing Page para uma sorveteria chamada "Sabor Verão".
 O projeto está responsivo e para desenvolver eu utilizei: HTML, CSS, JS e SASS.
 
 ## 🖥️ Demonstração
@@ -13,7 +13,7 @@ O projeto está responsivo e para desenvolver eu utilizei: HTML, CSS, JS e SASS.
 
 ## 🔗 Link da página
 
-https://tsb-icecream.netlify.app/
+https://saborverao.vercel.app/
 
 ## 👨‍💻 Tecnologias Utilizadas
 
@@ -24,4 +24,4 @@ https://tsb-icecream.netlify.app/
 
 ---
 
-**Desenvolvido por: [Thiago Batista](https://github.com/ThiagoSantosBatista/).**
+**Desenvolvido por: [Patrick Fortunato](https://github.com/PatrickvFortunato).**
